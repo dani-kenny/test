@@ -1,0 +1,2 @@
+[ 2011-07-14T18:35:01+08:00 ] NOTIC: [2] file_put_contents(/Users/nixu/18_35_01.txt) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Permission denied Test3Action.class.php 第 16 行.
+[ 2011-07-14T18:36:00+08:00 ] NOTIC: [2] file_put_contents(/Users/nixu/18_36_00.txt) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: Permission denied Test3Action.class.php 第 16 行.
